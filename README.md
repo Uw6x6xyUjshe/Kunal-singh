@@ -1,4 +1,4 @@
-- 👋 Hi, I’m kunal from India🇮🇳
+- 👋 Hi, I’m kunal from India
 - 👀 I’m interested in  Learning about Internet protocol and security..
 - 🌱 I’m currently learning  About Cellular Mechanisation.
 - 💞️ I’m looking to collaborate With The SpeedX and NSGA-III (Biggest social engineering Members of GitHub)
